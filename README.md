@@ -2,11 +2,11 @@
 
 ## Le challenge
 
-Mon objectif a été de créér une navigation avec des liens dont l'indicateur se déplace suivant le lien cliqué (grâce à JavaScript).
+Mon objectif a été de créer une navigation avec des liens dont l'indicateur se déplace suivant le lien cliqué (grâce à JavaScript).
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/interactive_nav_link/
 
 ## Développez avec
 
