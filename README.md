@@ -2,7 +2,7 @@
 
 ## Le challenge
 
-Mon objectif a été de créer une navigation avec des liens dont l'indicateur se déplace suivant le lien cliqué (grâce à JavaScript).
+Mon objectif a été de créer une navigation avec des liens dont l'indicateur se déplace en fonction du lien cliqué (grâce à JavaScript).
 
 ## Démonstration
 
